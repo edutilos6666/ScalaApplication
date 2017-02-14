@@ -1,4 +1,4 @@
-package com.edutilos.simpleCalc
+package com.edutilos.simpleProjects
 
 import java.util.Stack
 import javax.script.ScriptEngineManager

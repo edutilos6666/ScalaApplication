@@ -1,4 +1,4 @@
-package com.edutilos.simpleCalc
+package com.edutilos.simpleProjects
 
 import java.awt.event.{ActionEvent, ActionListener}
 import java.awt.{Font, GridLayout, Dimension}

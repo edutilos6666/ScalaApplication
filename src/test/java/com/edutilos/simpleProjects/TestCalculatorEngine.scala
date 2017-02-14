@@ -1,5 +1,6 @@
-package com.edutilos.simpleCalc
+package com.edutilos.simpleProjects
 
+import com.edutilos.simpleProjects.CalculatorEngine
 import junit.framework.TestCase
 import org.junit.Assert._
 
